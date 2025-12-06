@@ -79,9 +79,9 @@ const BACKGROUND_FADE_START = Math.max(
 const TYPED_LINES = [
   "> Sejelly",
   "...",
-  "> today is your birthday",
+  "> 13 july was your birthday",
   "...",
-  "> so i made you this computer program",
+  "> so i made you this computer program probably bit late",
   "...",
   "٩(◕‿◕)۶ ٩(◕‿◕)۶ ٩(◕‿◕)۶"
 ];
